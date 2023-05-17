@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684313345 source:d:\kuliah\semester 4\komputer grafik\tm6\teddy-bear\main.cpp
+	<GL/glut.h>
+	<math.h>
+
